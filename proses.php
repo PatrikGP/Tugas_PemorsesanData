@@ -23,4 +23,4 @@
             echo "Hasil Pembagian Adalah $hasil";
         }
 ?>
-</h1>
+</h1> 
